@@ -1,0 +1,8 @@
+********************************************************
+Order ID:                24475
+Date Ordered:            July 3rd 1993
+
+Item Name:               Thinga-ma-bobs
+Amount Ordered:          40
+Supplier:                Twinkles Inc.
+********************************************************
